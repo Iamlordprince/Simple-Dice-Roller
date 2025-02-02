@@ -1,0 +1,7 @@
+E:\c#\diceRoller\diceRoller\bin\Debug\diceRoller.exe.config
+E:\c#\diceRoller\diceRoller\bin\Debug\diceRoller.exe
+E:\c#\diceRoller\diceRoller\bin\Debug\diceRoller.pdb
+E:\c#\diceRoller\diceRoller\obj\Debug\diceRoller.csproj.AssemblyReference.cache
+E:\c#\diceRoller\diceRoller\obj\Debug\diceRoller.csproj.CoreCompileInputs.cache
+E:\c#\diceRoller\diceRoller\obj\Debug\diceRoller.exe
+E:\c#\diceRoller\diceRoller\obj\Debug\diceRoller.pdb
